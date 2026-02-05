@@ -100,4 +100,21 @@ This capstone project integrated all the skills learned from the previous notebo
 * **Complex Document Analysis:** Successfully applied the RAG technique to a real-world, complex document, demonstrating the practical utility of this approach for industries like finance, research, and legal where deep document analysis is critical.
 * **Problem Solving:** Overcame the challenges of handling mixed-media documents and ensuring that the final answers were accurate and directly supported by the provided source material.
 
+---
+
+### 5. Machine Learning with TensorFlow and Vertex AI
+
+**Location:** `vertex-ai-tensorflow-lab/notebooks/Lab1.ipynb`
+**Dependencies:** `vertex-ai-tensorflow-lab/requirements.txt`
+
+This comprehensive lab demonstrates the lifecycle of a machine learning engineer on Google Cloud. It utilizes Vertex AI Workbench to develop a custom TensorFlow model, going beyond basic training to include pipeline optimization, deployment, and interpretability.
+
+**Key Learnings & Activities:**
+
+* **Vertex AI Workbench:** Deployed and configured a managed notebook instance to orchestrate the ML workflow.
+* **Data Pipeline Optimization:** Built an efficient input data pipeline to handle training and validation datasets for a TensorFlow model.
+* **Model Deployment:** Deployed the trained model to a Vertex AI Endpoint, making it available for real-time predictions.
+* **Explainable AI (XAI):** Integrated Explainable AI to provide insights into the model's decision-making process, ensuring transparency in predictions.
+* **Prediction Service:** Successfully generated predictions from the deployed model endpoint using the Vertex AI SDK.
+
 Thank you for visiting!
