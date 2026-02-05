@@ -1,0 +1,7 @@
+tensorflow
+numpy
+google-cloud-storage
+google-cloud-bigquery
+pandas
+jupyter
+graphviz
